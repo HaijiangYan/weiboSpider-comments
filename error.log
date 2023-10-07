@@ -1,0 +1,1926 @@
+2023-10-01 17:27:56,250 - WARNING - info_parser.py[:24] - cookie错误或已过期,请按照README中方法重新获取
+2023-10-01 17:38:32,225 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:38:32,230 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:40:38,310 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:40:38,316 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:41:17,164 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:41:17,168 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:41:45,169 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:41:45,176 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:42:04,712 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:42:04,719 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:42:19,996 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:42:20,003 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:42:35,260 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:42:35,267 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:43:01,824 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:43:01,831 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:43:17,337 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:43:17,343 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:43:38,825 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:43:38,831 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:45:16,889 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:45:16,895 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:45:17,869 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:45:17,875 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-01 17:45:40,921 - WARNING - util.py[:102] - 当前账号没有浏览该视频的权限
+2023-10-01 17:45:40,927 - ERROR - page_parser.py[:306] - local variable 'video_url' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 304, in get_video_url
+    video_url = to_video_download_url(self.cookie, video_page_url)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 104, in to_video_download_url
+    return video_url
+UnboundLocalError: local variable 'video_url' referenced before assignment
+2023-10-07 01:26:34,939 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:36,168 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:36,170 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:36,170 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:36,171 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:36,172 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:36,172 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,602 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,603 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,604 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,605 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,606 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,606 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,607 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,608 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,608 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:37,609 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:39,838 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:39,840 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:39,841 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:40,895 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:40,896 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:40,897 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:40,898 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:40,899 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:42,010 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:42,011 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:52,241 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:52,242 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:52,243 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:52,243 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:52,244 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,471 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,472 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,473 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,474 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,475 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,476 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,476 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,477 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,478 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:53,478 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:54,741 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:54,742 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:54,743 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:54,744 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:54,744 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:54,745 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 01:26:54,746 - ERROR - page_parser.py[:366] - comments() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(self, info)
+TypeError: comments() takes 2 positional arguments but 3 were given
+2023-10-07 02:11:50,499 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:11:51,938 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:11:53,440 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:11:55,008 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:11:56,321 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:11:58,794 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:12:01,557 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:12:03,192 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:12:04,630 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:13:18,903 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:13:20,338 - ERROR - page_parser.py[:366] - 'NoneType' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 360, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 331, in comments
+    comment_hot_text = comment_hot_text.append(l)
+AttributeError: 'NoneType' object has no attribute 'append'
+2023-10-07 02:19:41,347 - ERROR - page_parser.py[:367] - list index out of range
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 361, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 332, in comments
+    comment_hot_text.append(l[0])
+IndexError: list index out of range
+2023-10-07 02:19:45,835 - ERROR - page_parser.py[:367] - list index out of range
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 361, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 332, in comments
+    comment_hot_text.append(l[0])
+IndexError: list index out of range
+2023-10-07 02:20:03,610 - ERROR - page_parser.py[:367] - list index out of range
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 361, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 332, in comments
+    comment_hot_text.append(l[0])
+IndexError: list index out of range
+2023-10-07 02:20:06,476 - ERROR - page_parser.py[:367] - list index out of range
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 361, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 332, in comments
+    comment_hot_text.append(l[0])
+IndexError: list index out of range
+2023-10-07 02:20:10,782 - ERROR - page_parser.py[:367] - list index out of range
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 361, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 332, in comments
+    comment_hot_text.append(l[0])
+IndexError: list index out of range
+2023-10-07 02:20:12,238 - ERROR - page_parser.py[:367] - list index out of range
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 361, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 332, in comments
+    comment_hot_text.append(l[0])
+IndexError: list index out of range
+2023-10-07 02:20:17,722 - ERROR - page_parser.py[:367] - list index out of range
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 361, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 332, in comments
+    comment_hot_text.append(l[0])
+IndexError: list index out of range
+2023-10-07 03:31:41,628 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 334, in comments
+    while html1.xpath('//div[@id="pagelist"]/form/div/a//text()').extract() == "&#19979;&#39029;":
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:31:43,023 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 334, in comments
+    while html1.xpath('//div[@id="pagelist"]/form/div/a//text()').extract() == "&#19979;&#39029;":
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:31:44,761 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 334, in comments
+    while html1.xpath('//div[@id="pagelist"]/form/div/a//text()').extract() == "&#19979;&#39029;":
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:31:46,397 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 334, in comments
+    while html1.xpath('//div[@id="pagelist"]/form/div/a//text()').extract() == "&#19979;&#39029;":
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:31:47,701 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 334, in comments
+    while html1.xpath('//div[@id="pagelist"]/form/div/a//text()').extract() == "&#19979;&#39029;":
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:31:49,164 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 334, in comments
+    while html1.xpath('//div[@id="pagelist"]/form/div/a//text()').extract() == "&#19979;&#39029;":
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:37:31,367 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 335, in comments
+    comment_url = html1.xpath('//div[@id="pagelist"]/form/div/a/@href').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:37:33,125 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 335, in comments
+    comment_url = html1.xpath('//div[@id="pagelist"]/form/div/a/@href').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:37:34,353 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 335, in comments
+    comment_url = html1.xpath('//div[@id="pagelist"]/form/div/a/@href').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:37:35,610 - ERROR - page_parser.py[:379] - 'list' object has no attribute 'extract'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 335, in comments
+    comment_url = html1.xpath('//div[@id="pagelist"]/form/div/a/@href').extract()
+AttributeError: 'list' object has no attribute 'extract'
+2023-10-07 03:38:21,764 - ERROR - util.py[:45] - Invalid URL '/comment/LberFzznh?page=2': No scheme supplied. Perhaps you meant https:///comment/LberFzznh?page=2?
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 486, in prepare_request
+    p.prepare(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 368, in prepare
+    self.prepare_url(url, params)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 439, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL '/comment/LberFzznh?page=2': No scheme supplied. Perhaps you meant https:///comment/LberFzznh?page=2?
+2023-10-07 03:38:21,767 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:38:23,202 - ERROR - util.py[:45] - Invalid URL '/comment/Lbe2XpQGA?page=2': No scheme supplied. Perhaps you meant https:///comment/Lbe2XpQGA?page=2?
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 486, in prepare_request
+    p.prepare(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 368, in prepare
+    self.prepare_url(url, params)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 439, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL '/comment/Lbe2XpQGA?page=2': No scheme supplied. Perhaps you meant https:///comment/Lbe2XpQGA?page=2?
+2023-10-07 03:38:23,203 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:38:24,532 - ERROR - util.py[:45] - Invalid URL '/comment/LbdzovMRr?page=2': No scheme supplied. Perhaps you meant https:///comment/LbdzovMRr?page=2?
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 486, in prepare_request
+    p.prepare(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 368, in prepare
+    self.prepare_url(url, params)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 439, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL '/comment/LbdzovMRr?page=2': No scheme supplied. Perhaps you meant https:///comment/LbdzovMRr?page=2?
+2023-10-07 03:38:24,533 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:38:25,848 - ERROR - util.py[:45] - Invalid URL '/comment/LbdpWiJH1?page=2': No scheme supplied. Perhaps you meant https:///comment/LbdpWiJH1?page=2?
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 486, in prepare_request
+    p.prepare(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 368, in prepare
+    self.prepare_url(url, params)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 439, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL '/comment/LbdpWiJH1?page=2': No scheme supplied. Perhaps you meant https:///comment/LbdpWiJH1?page=2?
+2023-10-07 03:38:25,848 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:38:27,351 - ERROR - util.py[:45] - Invalid URL '/comment/Lbd1xj99X?page=2': No scheme supplied. Perhaps you meant https:///comment/Lbd1xj99X?page=2?
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 486, in prepare_request
+    p.prepare(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 368, in prepare
+    self.prepare_url(url, params)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/models.py", line 439, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL '/comment/Lbd1xj99X?page=2': No scheme supplied. Perhaps you meant https:///comment/Lbd1xj99X?page=2?
+2023-10-07 03:38:27,352 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:30,301 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LberFzznh?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067b79d0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1067b79d0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LberFzznh?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067b79d0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LberFzznh?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067b79d0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:30,304 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:31,620 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbe2XpQGA?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc880>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1067cc880>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbe2XpQGA?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc880>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbe2XpQGA?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc880>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:31,621 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:32,997 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbdzovMRr?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0250>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087c0250>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbdzovMRr?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0250>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbdzovMRr?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0250>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:32,997 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:34,254 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbdpWiJH1?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc8e0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1067cc8e0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbdpWiJH1?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc8e0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbdpWiJH1?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc8e0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:34,255 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:35,921 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbd1xj99X?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c05e0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087c05e0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbd1xj99X?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c05e0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbd1xj99X?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c05e0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:35,921 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:37,357 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcJnstua?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0640>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087c0640>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcJnstua?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0640>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcJnstua?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0640>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:37,358 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:40,531 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcqAqw2E?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0700>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087c0700>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcqAqw2E?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0700>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcqAqw2E?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0700>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:40,532 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:41,973 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcppFDtR?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc5b0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1067cc5b0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcppFDtR?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc5b0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcppFDtR?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc5b0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:41,974 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:43,506 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbcn639CX?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc850>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1067cc850>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbcn639CX?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc850>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbcn639CX?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc850>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:43,510 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:44,833 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbckrb81g?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067ccb20>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1067ccb20>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbckrb81g?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067ccb20>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbckrb81g?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067ccb20>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:44,834 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:46,329 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcdDcf6t?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc910>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1067cc910>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcdDcf6t?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc910>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbcdDcf6t?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1067cc910>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:46,330 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:47,820 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbUcxfEm?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0850>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087c0850>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbUcxfEm?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0850>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbUcxfEm?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0850>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:47,821 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:49,078 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbNi3slt?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087ccbb0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087ccbb0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbNi3slt?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087ccbb0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbNi3slt?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087ccbb0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:49,079 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:50,566 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbwHbpou?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0190>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087c0190>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbwHbpou?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0190>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbbwHbpou?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087c0190>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:50,567 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:41:51,892 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbbi9Ae6e?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087cccd0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087cccd0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbbi9Ae6e?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087cccd0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbbi9Ae6e?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087cccd0>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:41:51,893 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:42:06,740 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbb0T5Jmq?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087ccc10>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087ccc10>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbb0T5Jmq?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087ccc10>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /Lbb0T5Jmq?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087ccc10>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:42:06,741 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:42:08,382 - ERROR - util.py[:45] - HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbaC6tOkB?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087cc640>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x1087cc640>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbaC6tOkB?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087cc640>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/util.py", line 25, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='comment', port=443): Max retries exceeded with url: /LbaC6tOkB?page=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1087cc640>: Failed to resolve 'comment' ([Errno 8] nodename nor servname provided, or not known)"))
+2023-10-07 03:42:08,383 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:44:26,882 - ERROR - page_parser.py[:379] - list index out of range
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 334, in comments
+    while html1.xpath('//div[@id="pagelist"]/form/div/a//text()')[0] == "下页":
+IndexError: list index out of range
+2023-10-07 03:58:11,147 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 337, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:58:12,154 - ERROR - page_parser.py[:379] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 373, in get_one_weibo
+    weibo.comments = self.comments(info)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 318, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 03:58:27,282 - ERROR - spider.py[:222] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 179, in get_weibo_info
+    weibos, self.weibo_id_list, to_continue = PageParser(
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 47, in __init__
+    info = self.selector.xpath("//div[@class='c']")
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2023-10-07 23:07:36,673 - ERROR - page_parser.py[:404] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 398, in get_one_weibo
+    else:
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 348, in comments
+    html = etree.HTML(comment)
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 23:07:37,696 - ERROR - page_parser.py[:404] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 398, in get_one_weibo
+    else:
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 318, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 23:07:38,682 - ERROR - page_parser.py[:404] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 398, in get_one_weibo
+    else:
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 318, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 23:07:39,655 - ERROR - page_parser.py[:404] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 398, in get_one_weibo
+    else:
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 318, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 23:07:40,615 - ERROR - page_parser.py[:404] - Type 'NoneType' cannot be serialized.
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 398, in get_one_weibo
+    else:
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 318, in comments
+    comment = tostring(comment).decode()
+  File "/Users/Yan/miniforge3/envs/spider/lib/python3.9/site-packages/lxml/html/__init__.py", line 1864, in tostring
+    html = etree.tostring(doc, method=method, pretty_print=pretty_print,
+  File "src/lxml/etree.pyx", line 3462, in lxml.etree.tostring
+TypeError: Type 'NoneType' cannot be serialized.
+2023-10-07 23:07:41,600 - ERROR - spider.py[:222] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 179, in get_weibo_info
+    weibos, self.weibo_id_list, to_continue = PageParser(
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/page_parser.py", line 47, in __init__
+    info = self.selector.xpath("//div[@class='c']")
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2023-10-07 23:14:30,941 - ERROR - index_parser.py[:44] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/index_parser.py", line 33, in get_user
+    user_id = self._get_user_id()
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/index_parser.py", line 20, in _get_user_id
+    url_list = self.selector.xpath("//div[@class='u']//a")
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2023-10-07 23:14:30,945 - ERROR - spider.py[:243] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 227, in _get_filepath
+    dir_name = self.user.nickname
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2023-10-07 23:14:30,946 - ERROR - csv_writer.py[:31] - expected str, bytes or os.PathLike object, not NoneType
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/writer/csv_writer.py", line 26, in __init__
+    with open(self.file_path, 'a', encoding='utf-8-sig',
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+2023-10-07 23:14:30,947 - ERROR - spider.py[:243] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 227, in _get_filepath
+    dir_name = self.user.nickname
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2023-10-07 23:14:30,948 - ERROR - spider.py[:331] - 'NoneType' object has no attribute '__dict__'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 314, in get_one_user
+    self.write_user(self.user)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 138, in write_user
+    writer.write_user(user)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/writer/txt_writer.py", line 30, in write_user
+    [v + '：' + str(self.user.__dict__[k]) for k, v in self.user_desc])
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/writer/txt_writer.py", line 30, in <listcomp>
+    [v + '：' + str(self.user.__dict__[k]) for k, v in self.user_desc])
+AttributeError: 'NoneType' object has no attribute '__dict__'
+2023-10-07 23:15:54,137 - ERROR - index_parser.py[:44] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/index_parser.py", line 33, in get_user
+    user_id = self._get_user_id()
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/parser/index_parser.py", line 20, in _get_user_id
+    url_list = self.selector.xpath("//div[@class='u']//a")
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2023-10-07 23:15:54,141 - ERROR - spider.py[:243] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 227, in _get_filepath
+    dir_name = self.user.nickname
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2023-10-07 23:15:54,142 - ERROR - csv_writer.py[:31] - expected str, bytes or os.PathLike object, not NoneType
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/writer/csv_writer.py", line 26, in __init__
+    with open(self.file_path, 'a', encoding='utf-8-sig',
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+2023-10-07 23:15:54,142 - ERROR - spider.py[:243] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 227, in _get_filepath
+    dir_name = self.user.nickname
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2023-10-07 23:15:54,142 - ERROR - spider.py[:331] - 'NoneType' object has no attribute '__dict__'
+Traceback (most recent call last):
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 314, in get_one_user
+    self.write_user(self.user)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/spider.py", line 138, in write_user
+    writer.write_user(user)
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/writer/txt_writer.py", line 30, in write_user
+    [v + '：' + str(self.user.__dict__[k]) for k, v in self.user_desc])
+  File "/Users/Yan/Projects/weiboSpider/weibo_spider/writer/txt_writer.py", line 30, in <listcomp>
+    [v + '：' + str(self.user.__dict__[k]) for k, v in self.user_desc])
+AttributeError: 'NoneType' object has no attribute '__dict__'
